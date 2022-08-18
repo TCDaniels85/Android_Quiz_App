@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">unQuote</string>
+    <string name="_99">99</string>
+    <string name="questionsRemaining">Number of questions remaining</string>
+</resources>
